@@ -29,7 +29,7 @@ Welcome to the Turtle Art Generator! This Python project utilizes the Turtle mod
 
 You can play with the Turtle Art Generator online using Replit:
 
-https://replit.com/badge/github/Nikhilconnectnow/TurtleArtGenerator
+(https://replit.com/@nikhilconnectno/turtle-art-generator?v=1#main.py)
 
 ## Contributing
 
