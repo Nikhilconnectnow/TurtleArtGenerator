@@ -1,5 +1,3 @@
-Certainly! Here's a basic `README.md` template for your Turtle Art Generator project:
-
 ---
 
 # Turtle Art Generator
